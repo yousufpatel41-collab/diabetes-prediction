@@ -98,3 +98,22 @@ Top predictors (by feature importance):
 ## 📬 Author
 
 **Yousuf Patel** — [LinkedIn](https://linkedin.com/in/yousuf-patel) · [Email](mailto:yousuf9patel@gmail.com)
+
+---
+
+## 📊 Output Charts
+
+### Model Comparison — Accuracy, AUC, F1
+![Model Comparison](outputs/model_comparison.png)
+
+### ROC Curves — All 3 Models
+![ROC Curves](outputs/roc_curves_all.png)
+
+### Confusion Matrices — All 3 Models
+![Confusion Matrices](outputs/confusion_matrices.png)
+
+### Feature Importance (Gradient Boosted Tree)
+![Feature Importance](outputs/feature_importance.png)
+
+### Feature Distributions by Diabetes Status
+![Feature Distributions](outputs/feature_distributions.png)
