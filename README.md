@@ -54,7 +54,7 @@ diabetes-prediction/
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/diabetes-prediction.git
+git clone https://github.com/yousufpatel41-collab/diabetes-prediction.git
 cd diabetes-prediction
 pip install -r requirements.txt
 
