@@ -1,0 +1,13 @@
+{
+  "dataset": "OpenML diabetes, ID 37, version 1",
+  "registry_url": "https://www.openml.org/d/37",
+  "download_url": "https://openml.org/data/v1/download/37/diabetes.arff",
+  "retrieved_on": "2026-10-12",
+  "publisher_license_label": "Public",
+  "raw_sha256": "4eddd5b2b64679e8888348e306520a393d6a28e1ddc9643cfb76fc5d912d6d40",
+  "csv_sha256": "c980e5e01dc1c554a358102b773f34b29599d0051ec5cf5b56ad1c6fcb3a23b0",
+  "rows": 768,
+  "positive_rows": 268,
+  "conversion": "ARFF attributes renamed; tested_positive -> 1, tested_negative -> 0. No rows added/removed.",
+  "replaces": "Previously committed CSV: 768 rows, 188 positive outcomes, source unverified. Previous metrics are superseded."
+}

@@ -1,4 +1,4 @@
-"""Compare three models on the included CSV; provenance is unverified."""
+"""Compare three models on the pinned OpenML 37 dataset."""
 import numpy as np
 import pandas as pd
 from sklearn.impute import SimpleImputer
